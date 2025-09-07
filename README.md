@@ -1,4 +1,4 @@
-# Image Processing - Color Detection
+# Image Processing - Project 1: Color Detection
 
 This repository contains a project that detects and outlines yellow colored objects in a video using OpenCV. The script processes frames, applies color masking, and uses connected components to draw separate bounding boxes around each object.
 
@@ -17,3 +17,5 @@ Watch the [video demo](#) to see the flowers being detected with individual boxe
 ## Notes
 - Adjust the yellow color bounds or kernel size in the script for better results.
 - Feel free to contribute or suggest improvements!
+
+-------
