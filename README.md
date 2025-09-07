@@ -17,6 +17,12 @@ This repository contains a project that detects and outlines yellow colored obje
   Your browser doesn't support video. Download it [here](https://github.com/aminemoussi/Image-Processing-Projects/color_detection_demo.mp4).
 </video>
 
+<p align="center">
+  <video width="100%" height="auto" controls>
+    <source src="https://github.com/aminemoussi/Image-Processing-Projects/color_detection_demo.mp4" type="video/mp4">
+  </video>
+</p>
+
 ## Notes
 - Adjust the yellow color bounds or kernel size in the script for better results.
 - Feel free to contribute or suggest improvements!
