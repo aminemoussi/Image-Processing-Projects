@@ -12,10 +12,8 @@ This repository contains a project that detects and outlines yellow colored obje
 3. Run: `python main_saved_video_test.py`
 
 ## Demo
-<video width="640" height="480" controls>
-  <source src="https://github.com/aminemoussi/Image-Processing-Projects/color_detection_demo.mp4" type="video/mp4">
-  Your browser doesn't support video. Download it [here](https://github.com/aminemoussi/Image-Processing-Projects/color_detection_demo.mp4).
-</video>
+![Demo](demo.gif)
+
 
 <p align="center">
   <video width="100%" height="auto" controls>
