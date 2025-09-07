@@ -12,14 +12,10 @@ This repository contains a project that detects and outlines yellow colored obje
 3. Run: `python main_saved_video_test.py`
 
 ## Demo
-![Demo](demo.gif)
-
-
 <p align="center">
-  <video width="100%" height="auto" controls>
-    <source src="https://github.com/aminemoussi/Image-Processing-Projects/color_detection_demo.mp4" type="video/mp4">
-  </video>
+  <img src="color_detection_demo.gif" alt="Color Detection Demo" width="520"/>
 </p>
+
 
 ## Notes
 - Adjust the yellow color bounds or kernel size in the script for better results.
