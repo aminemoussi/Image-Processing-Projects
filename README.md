@@ -12,7 +12,7 @@ This repository contains a project that detects and outlines yellow colored obje
 3. Run: `python main_saved_video_test.py`
 
 ## Demo
-Watch the [video demo](#) to see the flowers being detected with individual boxes!
+Watch the [color_detection_demo.mp4](#) to see the flowers being detected with individual boxes!
 
 ## Notes
 - Adjust the yellow color bounds or kernel size in the script for better results.
